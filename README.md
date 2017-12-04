@@ -3,10 +3,14 @@ Python MongoDB App's Code
 
 This is the repository for the code for Python MongoDB App. 
 
-• Python Version 2.7.11
+â€¢ Python Version 2.7.11
 
-• Bottle Version 0.13-dev
+â€¢ Bottle Version 0.13-dev
 
-• Pip Version 8.1.2
+â€¢ Pip Version 8.1.2
 
-• MongoDB Version 3.2.8
+â€¢ MongoDB Version 3.2.8
+
+**Credits:**
+
+â€¢ MongoDB Inc.
